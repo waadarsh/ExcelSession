@@ -1,7 +1,7 @@
 {
   "name": "Excel",
   "description": "Excel",
-  "main": "calc sum C.xaml",
+  "main": "Calculate percentage of expenses.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
@@ -56,6 +56,12 @@
     {
       "filePath": "calc sum C.xaml",
       "uniqueId": "e918c7ac-4fb3-49ee-8c0d-94b539f8f605",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Calculate percentage of expenses.xaml",
+      "uniqueId": "3820162a-0960-410c-8f7e-7d161a2a0fdc",
       "input": [],
       "output": []
     }
